@@ -1,0 +1,9 @@
+- Penjelasan Rekapitulasi Anggarna
+- Penjelasan Role Admin 
+- Untuk pagu anggaran ditampilkan untuk 1 user atau semua user ?
+- Untuk menu transfer apakah perlu menyimpan bukti transfer atau hanya tulisan saja ?
+
+Note lain 
+di ajuananggarna tidak boleh mengajukan kosong
+
+
